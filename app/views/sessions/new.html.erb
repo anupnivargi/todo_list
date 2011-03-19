@@ -1,0 +1,9 @@
+Login to Your Account
+<%= form_tag sessions_path, :method => :post do -%>
+  <%= label_tag "Email" %>
+  <%= text_field_tag "email" %><br />
+  <%= label_tag "Password" %>
+  <%= password_field_tag "password" %><br />
+  <%= submit_tag "Sign In"%>
+<% end -%>
+

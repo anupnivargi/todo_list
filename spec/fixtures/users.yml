@@ -1,0 +1,18 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+luc:
+  first_name: "luc"
+  last_name: "brendon"
+  email: "luc@gmail.com"
+  password_hash: "$2a$10$UktT3yu2rvlaEvkpTvBnlu2Bw.jgoLbRuaAbkBmZylKQPfrspLvR6"
+  password_salt: "$2a$10$UktT3yu2rvlaEvkpTvBnlu"
+  token: ""
+
+john:
+  first_name: "john"
+  last_name: "dupond"
+  email: "john@gmail.com"
+  password_hash: "$2a$10$UktT3yu2rvlaEvkpTvBnlu2Bw.jgoLbRuaAbkBmZylKQPfrspLvR6"
+  password_salt: "$2a$10$UktT3yu2rvlaEvkpTvBnlu"
+  token: ""
+
